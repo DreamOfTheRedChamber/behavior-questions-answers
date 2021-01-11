@@ -134,7 +134,7 @@
   - Hiderance: Identiy any hindrances or challenges faced.
   - Action: Explain the actions you took in response. 
   - Result: Discuss the results or outcomes from your action. 
-  - Evaluation: Evalutates whta you learned from the experience.
+  - Evaluation: Evalutates what you learned from the experience.
 
 ### Things to prepare 
 #### A story for each bullet point on resume
@@ -562,4 +562,4 @@ able to bring the same experience to your company.” OR “My qualifications an
 > 
 
 ### References
-* Cracking teh coding interview 6th Edition by Gayle Laakmann Mcdowell. 
+* Cracking the coding interview 6th Edition by Gayle Laakmann Mcdowell. 
